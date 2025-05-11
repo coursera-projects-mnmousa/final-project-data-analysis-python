@@ -19,6 +19,7 @@ The goal was to predict housing prices using a real dataset of homes sold in **K
 
 ## 📁 Files
 - `housing_price_prediction.ipynb` — Jupyter Notebook with all code, analysis, and models.
+- `kc_house_data.xlsx` — Excel version of the dataset description.
 - `screenshots/` — Folder containing screenshots used for assignment submission and review.
 - `README.md` — This file, explaining the project structure and work completed.
 
