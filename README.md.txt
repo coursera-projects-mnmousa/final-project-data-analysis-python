@@ -1,6 +1,6 @@
 # 🏡 Housing Price Prediction Project
 
-This project is part of the IBM Data Analyst Professional Certificate on Coursera.
+This project was completed as the final project of the IBM Data Analysis with Python course on Coursera
 
 ## 📘 Scenario
 
