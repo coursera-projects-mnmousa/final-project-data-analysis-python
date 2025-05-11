@@ -18,9 +18,9 @@ The goal was to predict housing prices using a real dataset of homes sold in **K
 10. Used Ridge regression on polynomial-transformed features
 
 ## 📁 Files
-- `King_County_Housing_Price_Prediction.ipynb` – Main notebook with full code, analysis, and models
-- `housing.csv` – Dataset used for training and testing
-- `/screenshots/` – Images included for Coursera submission
+- `housing_price_prediction.ipynb` — Jupyter Notebook with all code, analysis, and models.
+- `screenshots/` — Folder containing screenshots used for assignment submission and review.
+- `README.md` — This file, explaining the project structure and work completed.
 
 ## 📊 Libraries Used
 - `pandas`, `seaborn`, `matplotlib`
