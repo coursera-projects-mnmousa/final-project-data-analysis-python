@@ -18,7 +18,7 @@ The goal was to predict housing prices using a real dataset of homes sold in **K
 10. Used Ridge regression on polynomial-transformed features
 
 ## 📁 Files
-- `final_project_data_analysis_with_python.ipynb` – Jupyter Notebook containing all instructions and completed code.
+- `final_project_data_analysis_with_python.ipynb` – Jupyter Notebook containing all instructions and completed code
 - `housing.csv` – Dataset used for training and testing
 - `/screenshots/` – Images included for Coursera submission
 
