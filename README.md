@@ -1,6 +1,6 @@
-# King County Housing Price Prediction 🏠
+## 📝 Final Project: Data Analysis with Python
 
-This repository contains the final project for the **IBM Data Analysis with Python** course on Coursera.
+This is the final assignment from the Coursera course **"Data Analysis with Python"** by IBM.
 
 ## 🔍 Project Summary
 The goal was to predict housing prices using a real dataset of homes sold in **King County, WA** (including Seattle) between May 2014 and May 2015.
@@ -18,16 +18,11 @@ The goal was to predict housing prices using a real dataset of homes sold in **K
 10. Used Ridge regression on polynomial-transformed features
 
 ## 📁 Files
-- `King_County_Housing_Price_Prediction.ipynb` – Main notebook with full code, analysis, and models
+- `final_project_data_analysis_with_python.ipynb` – Jupyter Notebook containing all instructions and completed code.
 - `housing.csv` – Dataset used for training and testing
 - `/screenshots/` – Images included for Coursera submission
 
-## 📊 Libraries Used
-- `pandas`, `seaborn`, `matplotlib`
-- `scikit-learn` (LinearRegression, Ridge, PolynomialFeatures, Pipeline)
-
-## 📌 Notes
-This notebook is part of a **peer-reviewed** final project. Screenshots are included as proof of work for submission on Coursera.
-
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE) © 2025 Mohammad Mousa.
+
+🔗 [Link to the course](https://www.coursera.org/learn/data-analysis-with-python)
