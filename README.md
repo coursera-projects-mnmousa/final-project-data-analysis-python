@@ -23,6 +23,6 @@ The goal was to predict housing prices using a real dataset of homes sold in **K
 - `/screenshots/` – Images included for Coursera submission
 
 ## 📄 License
-This project is licensed under the [MIT License](LICENSE) © 2025 Mohammad Mousa
+This project is licensed under the [MIT License](LICENSE) © 2025 Mohammad Mousa.
 
 🔗 [Link to the course](https://www.coursera.org/learn/data-analysis-with-python)
