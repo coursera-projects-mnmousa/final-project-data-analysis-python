@@ -1,6 +1,6 @@
 ## 📝 Final Project: House Sales in King County, USA
 
-This is the final assignment from the Coursera course **"Data Analysis with Python"** by IBM.
+This is the final project from the Coursera course **"Data Analysis with Python"** by IBM.
 
 ## 🔍 Project Summary
 The goal was to predict housing prices using a real dataset of homes sold in **King County, WA** (including Seattle) between May 2014 and May 2015.
