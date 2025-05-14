@@ -2,7 +2,7 @@
 This is the final project from the Coursera course **"Data Analysis with Python"** by IBM.
 
 ## 🔍 Project Summary
-The goal was to predict housing prices using a real dataset of homes sold in **King County, WA** between May 2014 and May 2015.
+The goal was to predict housing prices of homes sold in **King County, WA** between May 2014 and May 2015.
 
 ## ✅ Tasks Completed
 1. Displayed data types using `.dtypes`
@@ -17,8 +17,7 @@ The goal was to predict housing prices using a real dataset of homes sold in **K
 10. Used Ridge regression on polynomial-transformed features
 
 ## 📁 Files
-- `final_project_data_analysis_with_python.ipynb` – Contains the original project instructions from the course and my completed solution
-- `housing.csv` – Dataset used for training and testing
-- `/screenshots/` – Images included for Coursera submission
+- final_project_data_analysis_with_python.ipynb – Contains the original project instructions from the course and my completed solution
+- housing.csv – Dataset used for training and testing
 
 🔗 [Link to the course](https://www.coursera.org/learn/data-analysis-with-python)
