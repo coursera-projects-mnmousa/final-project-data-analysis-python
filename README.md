@@ -1,5 +1,4 @@
 ## 📝 Final Project: House Sales in King County, USA
-
 This is the final project from the Coursera course **"Data Analysis with Python"** by IBM.
 
 ## 🔍 Project Summary
