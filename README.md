@@ -17,7 +17,7 @@ The goal was to predict housing prices of homes sold in King County, WA between 
 10. Used Ridge regression on polynomial-transformed features
 
 ## 📁 Files
-- final_project_data_analysis_with_python.ipynb – Contains the original project instructions from the course and my completed solution
-- housing.csv – Dataset used for training and testing
+- house_price_analysis.ipynb – Contains the original project instructions from the course and my completed solution
+- housing_data.csv – Dataset used for training and testing
 
 🔗 [Link to the course](https://www.coursera.org/learn/data-analysis-with-python)
