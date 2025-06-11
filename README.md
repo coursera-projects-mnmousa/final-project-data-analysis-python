@@ -2,7 +2,7 @@
 This is the final project from the Coursera course **"Data Analysis with Python"** by IBM.
 
 ## 🔍 Project Summary
-The goal was to predict housing prices of homes sold in King County, WA, USA between May 2014 and May 2015.
+The goal was to predict housing prices of homes sold in King County, USA between May 2014 and May 2015.
 
 ## 📁 Files
 - house_price_analysis.ipynb – Contains the original project instructions from the course and my completed solution
