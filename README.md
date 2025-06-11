@@ -6,6 +6,6 @@ The goal was to predict housing prices of homes sold in King County, USA between
 
 ## 📁 Files
 - `housing_price_analysis.ipynb` – Contains the original project instructions from the course and my completed solution
-- `housing_data.csv` – Dataset used for training and testing
+- `housing_data.csv` – Dataset used for training and testing the model
 
 🔗 [Link to the course](https://www.coursera.org/learn/data-analysis-with-python)
